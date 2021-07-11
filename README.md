@@ -1,5 +1,5 @@
 # *UpLift*
-
+  
 **Objective:** An iOS app which builds a community centered around our elderly, terminally ill, at risk-of-death, or those battling with mental health. Built at HackNYU, Feb 2019.
 
 **Goal:** Build an app that best aligned with Facebook's motto: "Give people the power to build community and bring the world closer together."
