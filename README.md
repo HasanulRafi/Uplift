@@ -42,7 +42,7 @@ The screens below showcase what the app would look like if we had more time to c
 - [x] (AI) Death confirmation to send public eulogy chat bot (Twilio and Heroku)
 - [ ] (AI) Sentiment-Analysis disabling negative comments (Watson)
 - [ ] (AI) Bot for speech-to-navigation for easier accessibility (Watson)
-
+  
 ## Roadblocks
 - **Merging** branches with iOS storyboard conflicts.
 - Uploading camera video recording and **caching** for seamless scroll UX.
