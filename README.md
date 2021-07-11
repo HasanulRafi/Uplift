@@ -19,7 +19,7 @@ The recording below showcases what we were able to accomplish in ~2 days at Hack
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 <br />
-Youtube Demo:
+Youtube Demo:  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=x-xW1F-8Npk
 " target="_blank"><img src="http://img.youtube.com/vi/x-xW1F-8Npk/0.jpg" 
